@@ -17,7 +17,7 @@
   </tr>
   <tr align = "center">
     <td><a href="https://github.com/maeilej"><img src="https://avatars.githubusercontent.com/u/158597024?v=4" width=200></a></td>
-    <td><a href="https://github.com/sseoni"><img src="https://avatars.githubusercontent.com/u/86185101?v=4" width=200></a></td>
+    <td><a href="https://github.com/sseoni"><img src="https://avatars.githubusercontent.com/u/82037889?v=4" width=200></a></td>
     <td><a href="https://github.com/ajung7038"><img src="https://avatars.githubusercontent.com/u/80907516?v=4" width=200></a></td>
     <td><a href="https://github.com/veronica2550"><img src="https://avatars.githubusercontent.com/u/128062548?v=4" width=200></a></td>
     <td><a href="https://github.com/serakim9"><img src="https://avatars.githubusercontent.com/u/175552335?v=4" width=200></a></td>

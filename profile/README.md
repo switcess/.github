@@ -12,7 +12,7 @@
     <td>Data</td>
     <td>Data</td>
     <td>Backend</td>
-    <td>Data</td>
+    <td>Backend</td>
     <td>PM</td>
   </tr>
   <tr align = "center">
